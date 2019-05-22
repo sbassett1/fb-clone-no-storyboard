@@ -1,0 +1,84 @@
+{
+    "posts": [
+              {
+              "name": "Mark Zuckerberg",
+              "location": {
+                    "city": "San Francisco",
+                    "state": "CA"
+              },
+              "profileImageName": "zuckprofile",
+              "statusText": "By giving people the power to share, we're making the world more transparent.",
+              "statusImageUrl": "https://s3-us-west-2.amazonaws.com/letsbuildthatapp/mark_zuckerberg_background.jpg",
+              "numLikes": 150,
+              "numComments": 300
+              },
+              {
+              "name": "Steve Jobs",
+              "location": {
+                    "city": "Cupertino",
+                    "state": "CA"
+              },
+              "profileImageName": "steve_profile",
+              "statusText": "Design is not just what it looks like and feels like. Design is how it works.\n\nBeing the richest man in the cemetery doesn't matter to me. Going to bed at night saying we've done something wonderful, that's what matters to me.\n\nSometimes when you innovate, you make mistakes. It is best to admit them quickly, and get on with improving your other innovations.",
+              "statusImageUrl": "https://s3-us-west-2.amazonaws.com/letsbuildthatapp/steve_jobs_background.jpg",
+              "numLikes": 111,
+              "numComments": 222
+              },
+              {
+              "name": "Mahatma Gandhi",
+              "location": {
+                    "city": "Porbandar",
+                    "state": "India"
+              },
+              "profileImageName": "gandhi_profile",
+              "statusText": "Live as if you were to die tomorrow; learn as if you were to live forever.\nThe weak can never forgive. Forgiveness is the attribute of the strong.\nHappiness is when what you think, what you say, and what you do are in harmony.",
+              "statusImageUrl": "https://s3-us-west-2.amazonaws.com/letsbuildthatapp/gandhi_status.jpg",
+              "numLikes": 333,
+              "numComments": 444
+              },
+              {
+              "name": "Bill Gates",
+              "location": {
+                    "city": "Portland",
+                    "state": "Oregon"
+              },
+              "profileImageName": "bill_gates_profile",
+              "statusText": "Success is a lousy teacher. It seduces smart people into thinking they can't lose.\n\nYour most unhappy customers are your greatest source of learning.\n\nAs we look ahead into the next century, leaders will be those who empower others.",
+              "statusImageUrl": "https://s3-us-west-2.amazonaws.com/letsbuildthatapp/gates_background.jpg",
+              "numLikes": 723,
+              "numComments": 284
+              },
+              {
+              "name": "Tim Cook",
+              "location": {
+                    "city": "Cupertino",
+                    "state": "CA"
+              },
+              "profileImageName": "tim_cook_profile",
+              "statusText": "The worst thing in the world that can happen to you if you're an engineer that has given his life to something is for someone to rip it off and put their name on it.",
+              "statusImageUrl": "https://s3-us-west-2.amazonaws.com/letsbuildthatapp/Tim+Cook.png",
+              "numLikes": 9765,
+              "numComments": 129
+              },
+              {
+              "name": "Donald Trump",
+              "location": {
+                    "city": "DumbVille",
+                    "state": "USA"
+              },
+              "profileImageName": "donald_trump_profile",
+              "statusText": "An ‘extremely credible source’ has called my office and told me that Barack Obama’s birth certificate is a fraud.",
+              "statusImageUrl": "https://s3-us-west-2.amazonaws.com/letsbuildthatapp/trump_background.jpg",
+              "numLikes": 951,
+              "numComments": 790
+              }
+    ]
+}
+       
+
+
+
+
+
+
+       
